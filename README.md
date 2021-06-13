@@ -13,7 +13,7 @@ HTTP client with Java similar to Insomnia and Postman
 ## How it works
 HTTP requests can be sent through console or GUI
 Console commands:
-```bash
+```text
 Usage: postpost <url> [options...]
 -M, --method <method>           	set request method
 -h, --headers <header/@file>		pass custom header(s) to server
